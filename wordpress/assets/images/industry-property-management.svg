@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 400" width="480" height="400" fill="none" stroke-linecap="round" stroke-linejoin="round"><!-- property: three buildings, ledger card, key -->
+<!-- buildings -->
+<g stroke="#466359" stroke-width="2.2">
+  <path d="M40 360V170h110v190" fill="#F0F4F2"/>
+  <path d="M150 360V90h130v270" fill="#FFFFFF"/>
+  <path d="M280 360V200h120v160" fill="#F0F4F2"/>
+  <path d="M28 360h390"/>
+</g>
+<g stroke="#6A9082" stroke-width="2">
+  <path d="M62 196h20v20H62zM108 196h20v20h-20zM62 238h20v20H62zM108 238h20v20h-20zM62 280h20v20H62zM108 280h20v20h-20z"/>
+  <path d="M172 116h22v22h-22zM236 116h22v22h-22zM172 160h22v22h-22zM236 160h22v22h-22zM172 204h22v22h-22zM236 204h22v22h-22zM172 248h22v22h-22zM236 248h22v22h-22z"/>
+  <path d="M302 226h22v22h-22zM356 226h22v22h-22zM302 270h22v22h-22zM356 270h22v22h-22z"/>
+</g>
+<path d="M200 360v-50h30v50" stroke="#466359" stroke-width="2.2" fill="#FFFFFF"/>
+<path d="M326 360v-36h28v36" stroke="#466359" stroke-width="2.2" fill="#FFFFFF"/>
+<!-- ledger card -->
+<g transform="translate(300 40)">
+  <rect width="150" height="120" fill="#FFFFFF" stroke="#466359" stroke-width="2.2"/>
+  <path d="M0 30h150" stroke="#466359" stroke-width="1.6"/>
+  <path d="M16 15h60" stroke="#6A9082" stroke-width="2.4"/>
+  <g stroke="#6A9082" stroke-width="1.8"><path d="M16 50h70M108 50h26M16 72h60M108 72h26M16 94h76M108 94h26"/></g>
+  <path d="M96 40v70" stroke="#6A9082" stroke-width="1" opacity=".6"/>
+</g>
+<!-- key -->
+<g stroke="#F36334" stroke-width="2.6" transform="translate(40 60)">
+  <circle cx="28" cy="28" r="22" fill="#FFFFFF"/>
+  <circle cx="28" cy="28" r="7"/>
+  <path d="M50 28h80M112 28v16M124 28v12"/>
+</g></svg>

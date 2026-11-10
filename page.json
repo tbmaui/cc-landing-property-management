@@ -1,0 +1,14 @@
+{
+  "page": "Property Management",
+  "repository": "tbmaui/cc-landing-property-management",
+  "source_file": "CC Property Management Page.html",
+  "source_sha256": "890d84b1ae71b33b6167aac030e4bc958c334a5810b81e58c89811af29497145",
+  "wordpress_pattern": "cc-modern/page-industry-property-management",
+  "wordpress_status": "validated",
+  "theme_dependency": {
+    "repository": "tbmaui/complete-controller-modern-theme",
+    "minimum_reviewed_version": "1.3.13"
+  },
+  "review_date": "2026-11-10",
+  "prototype_repository": null
+}
