@@ -46,6 +46,7 @@
   <circle cx="13.5" cy="56.9" r="1.4" fill="#6A9082" opacity="0.1"/>
   <circle cx="35.5" cy="57.0" r="2.1" fill="#6A9082" opacity="0.12"/>
   <circle cx="57.3" cy="56.5" r="1.4" fill="#6A9082" opacity="0.15"/>
+  <circle cx="79.0" cy="55.4" r="1.4" fill="#6A9082" opacity="0.18"/>
   <circle cx="165.1" cy="48.9" r="2.1" fill="#6A9082" opacity="0.28"/>
   <circle cx="186.7" cy="47.8" r="1.4" fill="#6A9082" opacity="0.29"/>
   <circle cx="208.5" cy="47.1" r="1.4" fill="#6A9082" opacity="0.29"/>
@@ -54,124 +55,110 @@
   <circle cx="275.0" cy="48.7" r="1.4" fill="#6A9082" opacity="0.26"/>
   <circle cx="297.5" cy="50.2" r="2.1" fill="#6A9082" opacity="0.23"/>
   <circle cx="320.0" cy="51.9" r="1.4" fill="#6A9082" opacity="0.21"/>
-  <circle cx="342.5" cy="53.6" r="1.4" fill="#6A9082" opacity="0.18"/>
-  <circle cx="364.9" cy="55.2" r="2.1" fill="#6A9082" opacity="0.15"/>
-  <circle cx="387.3" cy="56.3" r="1.4" fill="#6A9082" opacity="0.12"/>
   <circle cx="409.5" cy="56.9" r="1.4" fill="#6A9082" opacity="0.1"/>
   <circle cx="431.5" cy="56.9" r="2.1" fill="#6A9082" opacity="0.08"/>
   <circle cx="453.3" cy="56.3" r="1.4" fill="#6A9082" opacity="0.07"/>
   <circle cx="13.5" cy="76.9" r="2.1" fill="#6A9082" opacity="0.08"/>
   <circle cx="35.3" cy="76.2" r="1.4" fill="#6A9082" opacity="0.09"/>
+  <circle cx="56.9" cy="75.1" r="1.4" fill="#6A9082" opacity="0.12"/>
   <circle cx="186.5" cy="67.0" r="1.4" fill="#6A9082" opacity="0.27"/>
   <circle cx="208.5" cy="67.1" r="2.1" fill="#6A9082" opacity="0.28"/>
   <circle cx="230.7" cy="67.8" r="1.4" fill="#6A9082" opacity="0.29"/>
   <circle cx="253.1" cy="69.0" r="1.4" fill="#6A9082" opacity="0.29"/>
   <circle cx="275.6" cy="70.6" r="2.1" fill="#6A9082" opacity="0.28"/>
   <circle cx="298.1" cy="72.3" r="1.4" fill="#6A9082" opacity="0.26"/>
-  <circle cx="320.6" cy="74.0" r="1.4" fill="#6A9082" opacity="0.24"/>
-  <circle cx="343.0" cy="75.5" r="2.1" fill="#6A9082" opacity="0.22"/>
-  <circle cx="409.5" cy="76.8" r="2.1" fill="#6A9082" opacity="0.13"/>
   <circle cx="431.2" cy="76.1" r="1.4" fill="#6A9082" opacity="0.11"/>
   <circle cx="452.9" cy="74.9" r="1.4" fill="#6A9082" opacity="0.09"/>
   <circle cx="13.2" cy="96.0" r="1.4" fill="#6A9082" opacity="0.07"/>
   <circle cx="34.8" cy="94.7" r="1.4" fill="#6A9082" opacity="0.08"/>
-  <circle cx="186.6" cy="87.3" r="2.1" fill="#6A9082" opacity="0.24"/>
+  <circle cx="56.3" cy="93.1" r="2.1" fill="#6A9082" opacity="0.09"/>
   <circle cx="208.8" cy="88.1" r="1.4" fill="#6A9082" opacity="0.26"/>
   <circle cx="231.2" cy="89.4" r="1.4" fill="#6A9082" opacity="0.28"/>
   <circle cx="253.7" cy="91.0" r="2.1" fill="#6A9082" opacity="0.29"/>
   <circle cx="276.2" cy="92.8" r="1.4" fill="#6A9082" opacity="0.29"/>
-  <circle cx="298.7" cy="94.4" r="1.4" fill="#6A9082" opacity="0.28"/>
   <circle cx="430.7" cy="94.5" r="1.4" fill="#6A9082" opacity="0.14"/>
   <circle cx="452.3" cy="92.8" r="2.1" fill="#6A9082" opacity="0.12"/>
   <circle cx="12.7" cy="114.3" r="1.4" fill="#6A9082" opacity="0.07"/>
   <circle cx="34.2" cy="112.7" r="2.1" fill="#6A9082" opacity="0.07"/>
-  <circle cx="186.9" cy="108.4" r="1.4" fill="#6A9082" opacity="0.21"/>
-  <circle cx="209.3" cy="109.8" r="1.4" fill="#6A9082" opacity="0.23"/>
   <circle cx="231.8" cy="111.5" r="2.1" fill="#6A9082" opacity="0.26"/>
   <circle cx="254.4" cy="113.2" r="1.4" fill="#6A9082" opacity="0.27"/>
   <circle cx="276.8" cy="114.8" r="1.4" fill="#6A9082" opacity="0.29"/>
-  <circle cx="299.2" cy="116.1" r="2.1" fill="#6A9082" opacity="0.29"/>
   <circle cx="451.6" cy="110.7" r="1.4" fill="#6A9082" opacity="0.15"/>
   <circle cx="12.1" cy="132.2" r="2.1" fill="#6A9082" opacity="0.09"/>
   <circle cx="33.5" cy="130.5" r="1.4" fill="#6A9082" opacity="0.08"/>
-  <circle cx="55.1" cy="128.9" r="1.4" fill="#6A9082" opacity="0.07"/>
-  <circle cx="76.7" cy="127.8" r="2.1" fill="#6A9082" opacity="0.07"/>
-  <circle cx="98.5" cy="127.1" r="1.4" fill="#6A9082" opacity="0.08"/>
-  <circle cx="120.5" cy="127.1" r="1.4" fill="#6A9082" opacity="0.09"/>
-  <circle cx="142.7" cy="127.6" r="2.1" fill="#6A9082" opacity="0.11"/>
-  <circle cx="165.0" cy="128.7" r="1.4" fill="#6A9082" opacity="0.14"/>
-  <circle cx="187.5" cy="130.2" r="1.4" fill="#6A9082" opacity="0.17"/>
-  <circle cx="210.0" cy="131.9" r="2.1" fill="#6A9082" opacity="0.2"/>
   <circle cx="232.5" cy="133.6" r="1.4" fill="#6A9082" opacity="0.22"/>
   <circle cx="254.9" cy="135.2" r="1.4" fill="#6A9082" opacity="0.25"/>
   <circle cx="277.3" cy="136.3" r="2.1" fill="#6A9082" opacity="0.27"/>
   <circle cx="451.0" cy="128.7" r="1.4" fill="#6A9082" opacity="0.19"/>
   <circle cx="11.4" cy="150.1" r="1.4" fill="#6A9082" opacity="0.12"/>
   <circle cx="33.0" cy="148.6" r="1.4" fill="#6A9082" opacity="0.1"/>
-  <circle cx="54.7" cy="147.5" r="2.1" fill="#6A9082" opacity="0.08"/>
-  <circle cx="76.5" cy="147.0" r="1.4" fill="#6A9082" opacity="0.07"/>
   <circle cx="233.0" cy="155.5" r="1.4" fill="#6A9082" opacity="0.19"/>
   <circle cx="255.4" cy="156.5" r="2.1" fill="#6A9082" opacity="0.21"/>
-  <circle cx="277.5" cy="157.0" r="1.4" fill="#6A9082" opacity="0.24"/>
   <circle cx="450.6" cy="147.4" r="2.1" fill="#6A9082" opacity="0.23"/>
   <circle cx="10.9" cy="168.3" r="1.4" fill="#6A9082" opacity="0.16"/>
   <circle cx="32.6" cy="167.4" r="2.1" fill="#6A9082" opacity="0.13"/>
-  <circle cx="54.5" cy="167.0" r="1.4" fill="#6A9082" opacity="0.11"/>
+  <circle cx="233.4" cy="176.7" r="2.1" fill="#6A9082" opacity="0.15"/>
   <circle cx="255.5" cy="177.0" r="1.4" fill="#6A9082" opacity="0.17"/>
-  <circle cx="277.4" cy="176.7" r="1.4" fill="#6A9082" opacity="0.2"/>
+  <circle cx="450.5" cy="167.0" r="1.4" fill="#6A9082" opacity="0.26"/>
   <circle cx="10.6" cy="187.2" r="2.1" fill="#6A9082" opacity="0.2"/>
-  <circle cx="32.5" cy="187.0" r="1.4" fill="#6A9082" opacity="0.17"/>
-  <circle cx="277.1" cy="195.5" r="2.1" fill="#6A9082" opacity="0.16"/>
+  <circle cx="233.5" cy="197.0" r="1.4" fill="#6A9082" opacity="0.11"/>
+  <circle cx="255.4" cy="196.5" r="1.4" fill="#6A9082" opacity="0.14"/>
+  <circle cx="450.7" cy="187.5" r="1.4" fill="#6A9082" opacity="0.28"/>
   <circle cx="10.5" cy="207.1" r="1.4" fill="#6A9082" opacity="0.24"/>
-  <circle cx="32.7" cy="207.6" r="1.4" fill="#6A9082" opacity="0.21"/>
-  <circle cx="276.5" cy="213.7" r="1.4" fill="#6A9082" opacity="0.13"/>
+  <circle cx="233.3" cy="216.3" r="1.4" fill="#6A9082" opacity="0.09"/>
+  <circle cx="255.0" cy="215.2" r="2.1" fill="#6A9082" opacity="0.1"/>
+  <circle cx="451.1" cy="208.9" r="2.1" fill="#6A9082" opacity="0.29"/>
   <circle cx="10.7" cy="227.8" r="1.4" fill="#6A9082" opacity="0.27"/>
-  <circle cx="275.9" cy="231.5" r="1.4" fill="#6A9082" opacity="0.1"/>
+  <circle cx="232.9" cy="234.9" r="2.1" fill="#6A9082" opacity="0.07"/>
+  <circle cx="254.4" cy="233.3" r="1.4" fill="#6A9082" opacity="0.08"/>
+  <circle cx="451.7" cy="230.9" r="1.4" fill="#6A9082" opacity="0.28"/>
   <circle cx="11.2" cy="249.4" r="2.1" fill="#6A9082" opacity="0.28"/>
-  <circle cx="275.2" cy="249.4" r="2.1" fill="#6A9082" opacity="0.08"/>
+  <circle cx="33.7" cy="251.0" r="1.4" fill="#6A9082" opacity="0.27"/>
+  <circle cx="232.3" cy="252.8" r="1.4" fill="#6A9082" opacity="0.07"/>
+  <circle cx="253.7" cy="251.1" r="1.4" fill="#6A9082" opacity="0.07"/>
   <circle cx="452.3" cy="253.0" r="1.4" fill="#6A9082" opacity="0.27"/>
   <circle cx="11.8" cy="271.5" r="1.4" fill="#6A9082" opacity="0.29"/>
+  <circle cx="34.4" cy="273.2" r="1.4" fill="#6A9082" opacity="0.29"/>
+  <circle cx="231.6" cy="270.7" r="1.4" fill="#6A9082" opacity="0.09"/>
+  <circle cx="253.1" cy="269.1" r="2.1" fill="#6A9082" opacity="0.07"/>
   <circle cx="274.8" cy="267.9" r="1.4" fill="#6A9082" opacity="0.07"/>
-  <circle cx="296.5" cy="267.1" r="1.4" fill="#6A9082" opacity="0.07"/>
   <circle cx="452.9" cy="275.0" r="2.1" fill="#6A9082" opacity="0.24"/>
   <circle cx="12.5" cy="293.6" r="1.4" fill="#6A9082" opacity="0.28"/>
+  <circle cx="34.9" cy="295.2" r="2.1" fill="#6A9082" opacity="0.29"/>
+  <circle cx="231.0" cy="288.7" r="2.1" fill="#6A9082" opacity="0.11"/>
+  <circle cx="252.7" cy="287.6" r="1.4" fill="#6A9082" opacity="0.09"/>
   <circle cx="274.5" cy="287.1" r="1.4" fill="#6A9082" opacity="0.08"/>
-  <circle cx="296.5" cy="287.1" r="2.1" fill="#6A9082" opacity="0.07"/>
-  <circle cx="431.0" cy="295.4" r="2.1" fill="#6A9082" opacity="0.17"/>
   <circle cx="453.3" cy="296.4" r="1.4" fill="#6A9082" opacity="0.2"/>
   <circle cx="13.0" cy="315.5" r="2.1" fill="#6A9082" opacity="0.26"/>
   <circle cx="35.4" cy="316.5" r="1.4" fill="#6A9082" opacity="0.28"/>
+  <circle cx="57.5" cy="317.0" r="1.4" fill="#6A9082" opacity="0.29"/>
+  <circle cx="208.9" cy="308.4" r="2.1" fill="#6A9082" opacity="0.17"/>
+  <circle cx="230.6" cy="307.4" r="1.4" fill="#6A9082" opacity="0.15"/>
+  <circle cx="252.5" cy="307.0" r="1.4" fill="#6A9082" opacity="0.12"/>
   <circle cx="274.6" cy="307.2" r="2.1" fill="#6A9082" opacity="0.1"/>
-  <circle cx="296.8" cy="308.0" r="1.4" fill="#6A9082" opacity="0.08"/>
-  <circle cx="319.2" cy="309.2" r="1.4" fill="#6A9082" opacity="0.07"/>
-  <circle cx="409.1" cy="315.7" r="2.1" fill="#6A9082" opacity="0.11"/>
   <circle cx="431.4" cy="316.6" r="1.4" fill="#6A9082" opacity="0.13"/>
   <circle cx="453.5" cy="317.0" r="1.4" fill="#6A9082" opacity="0.16"/>
   <circle cx="13.4" cy="336.7" r="1.4" fill="#6A9082" opacity="0.23"/>
   <circle cx="35.5" cy="337.0" r="1.4" fill="#6A9082" opacity="0.25"/>
   <circle cx="57.4" cy="336.7" r="2.1" fill="#6A9082" opacity="0.27"/>
+  <circle cx="208.6" cy="327.3" r="1.4" fill="#6A9082" opacity="0.21"/>
+  <circle cx="230.5" cy="327.0" r="1.4" fill="#6A9082" opacity="0.19"/>
   <circle cx="252.6" cy="327.3" r="2.1" fill="#6A9082" opacity="0.16"/>
   <circle cx="274.9" cy="328.3" r="1.4" fill="#6A9082" opacity="0.13"/>
   <circle cx="297.3" cy="329.6" r="1.4" fill="#6A9082" opacity="0.11"/>
-  <circle cx="319.8" cy="331.3" r="2.1" fill="#6A9082" opacity="0.09"/>
-  <circle cx="342.3" cy="333.0" r="1.4" fill="#6A9082" opacity="0.07"/>
-  <circle cx="364.8" cy="334.7" r="1.4" fill="#6A9082" opacity="0.07"/>
-  <circle cx="387.2" cy="336.0" r="2.1" fill="#6A9082" opacity="0.07"/>
-  <circle cx="409.4" cy="336.8" r="1.4" fill="#6A9082" opacity="0.08"/>
   <circle cx="431.5" cy="337.0" r="1.4" fill="#6A9082" opacity="0.1"/>
   <circle cx="453.4" cy="336.6" r="2.1" fill="#6A9082" opacity="0.12"/>
   <circle cx="13.5" cy="357.0" r="1.4" fill="#6A9082" opacity="0.19"/>
   <circle cx="35.4" cy="356.5" r="2.1" fill="#6A9082" opacity="0.22"/>
   <circle cx="57.1" cy="355.5" r="1.4" fill="#6A9082" opacity="0.24"/>
   <circle cx="78.6" cy="354.1" r="1.4" fill="#6A9082" opacity="0.27"/>
+  <circle cx="186.5" cy="347.1" r="1.4" fill="#6A9082" opacity="0.27"/>
+  <circle cx="208.5" cy="347.0" r="1.4" fill="#6A9082" opacity="0.25"/>
   <circle cx="230.7" cy="347.5" r="2.1" fill="#6A9082" opacity="0.22"/>
   <circle cx="253.0" cy="348.6" r="1.4" fill="#6A9082" opacity="0.2"/>
   <circle cx="275.4" cy="350.0" r="1.4" fill="#6A9082" opacity="0.17"/>
   <circle cx="297.9" cy="351.7" r="2.1" fill="#6A9082" opacity="0.14"/>
   <circle cx="320.4" cy="353.5" r="1.4" fill="#6A9082" opacity="0.11"/>
-  <circle cx="342.9" cy="355.0" r="1.4" fill="#6A9082" opacity="0.09"/>
-  <circle cx="365.3" cy="356.2" r="2.1" fill="#6A9082" opacity="0.08"/>
-  <circle cx="387.5" cy="356.9" r="1.4" fill="#6A9082" opacity="0.07"/>
   <circle cx="409.5" cy="357.0" r="1.4" fill="#6A9082" opacity="0.07"/>
   <circle cx="431.3" cy="356.4" r="2.1" fill="#6A9082" opacity="0.08"/>
   <circle cx="453.0" cy="355.3" r="1.4" fill="#6A9082" opacity="0.09"/>
@@ -180,6 +167,10 @@
   <circle cx="56.5" cy="373.7" r="1.4" fill="#6A9082" opacity="0.21"/>
   <circle cx="78.0" cy="372.0" r="2.1" fill="#6A9082" opacity="0.23"/>
   <circle cx="99.5" cy="370.2" r="1.4" fill="#6A9082" opacity="0.26"/>
+  <circle cx="121.0" cy="368.7" r="1.4" fill="#6A9082" opacity="0.28"/>
+  <circle cx="142.7" cy="367.6" r="2.1" fill="#6A9082" opacity="0.29"/>
+  <circle cx="164.5" cy="367.1" r="1.4" fill="#6A9082" opacity="0.29"/>
+  <circle cx="186.5" cy="367.1" r="1.4" fill="#6A9082" opacity="0.29"/>
   <circle cx="208.7" cy="367.7" r="2.1" fill="#6A9082" opacity="0.27"/>
   <circle cx="231.1" cy="368.9" r="1.4" fill="#6A9082" opacity="0.26"/>
   <circle cx="253.5" cy="370.4" r="1.4" fill="#6A9082" opacity="0.23"/>
@@ -194,127 +185,140 @@
   <circle cx="452.4" cy="373.4" r="1.4" fill="#6A9082" opacity="0.07"/>
 </g>
 
-<!-- Left & Center: Modern Layered Architecture (x=35 to 275) -->
-<g stroke="#466359" stroke-width="2.2">
-  <!-- Building 1: Residential Apartment Mid-Rise (Left) -->
-  <rect x="38" y="180" width="85" height="195" fill="#F0F4F2"/>
-  <!-- Architectural windows grid -->
-  <g stroke="#6A9082" stroke-width="1.8">
-    <rect x="50" y="200" width="16" height="18" fill="#FFFFFF"/>
-    <rect x="76" y="200" width="16" height="18" fill="#FFFFFF"/>
-    <rect x="102" y="200" width="12" height="18" fill="#FFFFFF"/>
-    <rect x="50" y="234" width="16" height="18" fill="#FFFFFF"/>
-    <rect x="76" y="234" width="16" height="18" fill="#FFFFFF"/>
-    <rect x="102" y="234" width="12" height="18" fill="#FFFFFF"/>
-    <rect x="50" y="268" width="16" height="18" fill="#FFFFFF"/>
-    <rect x="76" y="268" width="16" height="18" fill="#FFFFFF"/>
-    <rect x="102" y="268" width="12" height="18" fill="#FFFFFF"/>
-    <rect x="50" y="302" width="16" height="18" fill="#FFFFFF"/>
-    <rect x="76" y="302" width="16" height="18" fill="#FFFFFF"/>
-    <rect x="102" y="302" width="12" height="18" fill="#FFFFFF"/>
-  </g>
-  <path d="M68 375v-28h25v28" fill="#FFFFFF"/>
-
-  <!-- Building 2: Sleek Modern Commercial High-Rise (Center) -->
-  <rect x="128" y="90" width="105" height="285" fill="#FFFFFF"/>
-  <!-- Roof antenna mast -->
-  <line x1="180" y1="90" x2="180" y2="48" stroke="#6A9082" stroke-width="2.0"/>
-  <circle cx="180" cy="46" r="3" fill="#F36334" stroke="none"/>
-  <!-- Modern curtain wall floor plates -->
+<!-- Left: Modern Residential Brownstone Architecture (x=38 to 225) -->
+<g stroke="#466359" stroke-width="2.4">
+  <!-- Building facade structure -->
+  <rect x="45" y="75" width="175" height="275" rx="3" fill="#FFFFFF"/>
+  <!-- Rooftop decorative cornice & pediment -->
+  <path d="M38 75h189v10H38z" fill="#F0F4F2"/>
+  <path d="M102 75l30-18 30 18z" fill="#FFFFFF"/>
+  <!-- Decorative roof brackets -->
   <g stroke="#6A9082" stroke-width="1.6">
-    <line x1="128" y1="125" x2="233" y2="125"/>
-    <line x1="128" y1="155" x2="233" y2="155"/>
-    <line x1="128" y1="185" x2="233" y2="185"/>
-    <line x1="128" y1="215" x2="233" y2="215"/>
-    <line x1="128" y1="245" x2="233" y2="245"/>
-    <line x1="128" y1="275" x2="233" y2="275"/>
-    <line x1="128" y1="305" x2="233" y2="305"/>
-    <line x1="128" y1="335" x2="233" y2="335"/>
-    <!-- Vertical mullions -->
-    <line x1="154" y1="90" x2="154" y2="375" opacity="0.6"/>
-    <line x1="180" y1="90" x2="180" y2="375" opacity="0.6"/>
-    <line x1="206" y1="90" x2="206" y2="375" opacity="0.6"/>
+    <line x1="55" y1="75" x2="55" y2="85"/>
+    <line x1="85" y1="75" x2="85" y2="85"/>
+    <line x1="115" y1="75" x2="115" y2="85"/>
+    <line x1="145" y1="75" x2="145" y2="85"/>
+    <line x1="175" y1="75" x2="175" y2="85"/>
+    <line x1="205" y1="75" x2="205" y2="85"/>
   </g>
-  <!-- Grand glass lobby entrance -->
-  <rect x="156" y="340" width="48" height="35" fill="#F0F4F2" stroke="#466359" stroke-width="2"/>
-  <line x1="180" y1="340" x2="180" y2="375" stroke="#F36334" stroke-width="2"/>
 
-  <!-- Building 3: Townhouse / Mixed Use (Right overlap) -->
-  <rect x="233" y="195" width="55" height="180" fill="#F0F4F2"/>
-  <g stroke="#6A9082" stroke-width="1.8">
-    <rect x="246" y="215" width="16" height="18" fill="#FFFFFF"/>
-    <rect x="246" y="248" width="16" height="18" fill="#FFFFFF"/>
-    <rect x="246" y="282" width="16" height="18" fill="#FFFFFF"/>
-    <rect x="246" y="316" width="16" height="18" fill="#FFFFFF"/>
+  <!-- 3rd Floor Windows (2 units) -->
+  <g stroke="#466359" stroke-width="2.0">
+    <!-- Window 1 -->
+    <rect x="65" y="105" width="45" height="40" rx="2" fill="#F0F4F2"/>
+    <line x1="87.5" y1="105" x2="87.5" y2="145" stroke="#6A9082" stroke-width="1.4"/>
+    <line x1="65" y1="125" x2="110" y2="125" stroke="#6A9082" stroke-width="1.4"/>
+    <!-- Window 2 -->
+    <rect x="145" y="105" width="45" height="40" rx="2" fill="#F0F4F2"/>
+    <line x1="167.5" y1="105" x2="167.5" y2="145" stroke="#6A9082" stroke-width="1.4"/>
+    <line x1="145" y1="125" x2="190" y2="125" stroke="#6A9082" stroke-width="1.4"/>
+  </g>
+
+  <!-- 2nd Floor Windows with Balcony Details -->
+  <g stroke="#466359" stroke-width="2.0">
+    <!-- Window 3 -->
+    <rect x="65" y="170" width="45" height="45" rx="2" fill="#F0F4F2"/>
+    <line x1="87.5" y1="170" x2="87.5" y2="215" stroke="#6A9082" stroke-width="1.4"/>
+    <line x1="65" y1="192.5" x2="110" y2="192.5" stroke="#6A9082" stroke-width="1.4"/>
+    <!-- Window 4 -->
+    <rect x="145" y="170" width="45" height="45" rx="2" fill="#F0F4F2"/>
+    <line x1="167.5" y1="170" x2="167.5" y2="215" stroke="#6A9082" stroke-width="1.4"/>
+    <line x1="145" y1="192.5" x2="190" y2="192.5" stroke="#6A9082" stroke-width="1.4"/>
+  </g>
+
+  <!-- Ground Floor Entrance & Portico (Center) -->
+  <g transform="translate(105, 250)">
+    <!-- Entrance portico canopy with orange accent -->
+    <path d="M-8 0h68v6h-68z" fill="#FFF0EB" stroke="#F36334" stroke-width="2.0"/>
+    <!-- Support pillars -->
+    <line x1="-2" y1="6" x2="-2" y2="100" stroke="#466359" stroke-width="2.2"/>
+    <line x1="54" y1="6" x2="54" y2="100" stroke="#466359" stroke-width="2.2"/>
+    <!-- Arched residential front door -->
+    <path d="M8 100v-55a18 18 0 0 1 36 0v55z" fill="#F0F4F2" stroke="#466359" stroke-width="2.2"/>
+    <!-- Door handle in orange -->
+    <circle cx="16" cy="74" r="2.5" fill="#F36334" stroke="none"/>
+    <!-- Welcome entrance steps -->
+    <rect x="-10" y="94" width="72" height="6" fill="#FFFFFF" stroke="#6A9082" stroke-width="1.6"/>
+  </g>
+
+  <!-- Ground floor left window -->
+  <rect x="58" y="260" width="36" height="42" rx="2" fill="#F0F4F2" stroke="#466359" stroke-width="2.0"/>
+  <line x1="76" y1="260" x2="76" y2="302" stroke="#6A9082" stroke-width="1.4"/>
+  <line x1="58" y1="281" x2="94" y2="281" stroke="#6A9082" stroke-width="1.4"/>
+
+  <!-- Sidewalk Topiary Planter (Left) -->
+  <g transform="translate(34, 320)">
+    <circle cx="10" cy="10" r="12" fill="#FFFFFF" stroke="#6A9082" stroke-width="2.0"/>
+    <path d="M4 22h12l-2 8H8z" fill="#F0F4F2" stroke="#466359" stroke-width="1.8"/>
   </g>
 </g>
 
-<!-- Top-Left: Master Property Brass Key & Smart Access Tag (x=35 to 175, y=55 to 110) -->
-<g transform="translate(35, 60)">
-  <!-- Smart fob tag with orange accent -->
-  <rect x="0" y="5" width="38" height="26" rx="6" fill="#FFFFFF" stroke="#F36334" stroke-width="2.2"/>
-  <circle cx="12" cy="18" r="4" fill="#F36334" stroke="none"/>
-  <line x1="22" y1="14" x2="32" y2="14" stroke="#6A9082" stroke-width="1.6"/>
-  <line x1="22" y1="21" x2="28" y2="21" stroke="#6A9082" stroke-width="1.6"/>
-  
-  <!-- Key ring linking fob to key -->
-  <circle cx="48" cy="18" r="10" stroke="#6A9082" stroke-width="2.0"/>
 
-  <!-- Master property key -->
-  <g stroke="#466359" stroke-width="2.4" transform="translate(56, 4)">
-    <!-- Key bow (head) -->
-    <circle cx="14" cy="14" r="14" fill="#FFFFFF"/>
-    <circle cx="14" cy="14" r="5" fill="#F0F4F2"/>
-    <!-- Key blade -->
-    <path d="M28 14h74"/>
-    <!-- Precision warding & cut teeth -->
-    <path d="M72 14v10M84 14v6M94 14v12M100 14v8"/>
+<!-- Right: Property Analytics Ledger Card & Master Key on Base (x=275 to 445) -->
+<!-- Generous 50px space from the building! Uses space nicely vertically and horizontally! -->
+<g stroke="#466359" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Floating Tenant Rent Roll & Occupancy Ledger Card (Upper Right) -->
+  <g transform="translate(280, 55)">
+    <!-- Card container -->
+    <rect width="165" height="215" rx="8" fill="#FFFFFF" stroke="#466359" stroke-width="2.4"/>
+    <!-- Header banner -->
+    <rect width="165" height="34" rx="8" fill="#F0F4F2"/>
+    <rect y="26" width="165" height="8" fill="#F0F4F2"/>
+    <line x1="0" y1="34" x2="165" y2="34" stroke="#466359" stroke-width="1.8"/>
+    <!-- Header status icon -->
+    <circle cx="20" cy="17" r="5" fill="#466359"/>
+    <line x1="34" y1="17" x2="110" y2="17" stroke="#466359" stroke-width="2.2"/>
+
+    <!-- Monthly Rent Collection Bar Chart (Occupancy analytics) -->
+    <g stroke="#6A9082" stroke-width="1.0" opacity="0.4">
+      <line x1="16" y1="125" x2="150" y2="125"/>
+    </g>
+    <!-- 5 monthly rent bars -->
+    <rect x="24" y="90" width="16" height="35" rx="2" fill="#F0F4F2" stroke="#6A9082" stroke-width="1.8"/>
+    <rect x="48" y="75" width="16" height="50" rx="2" fill="#F0F4F2" stroke="#6A9082" stroke-width="1.8"/>
+    <!-- Featured Peak Occupancy Bar (Orange Accent) -->
+    <rect x="72" y="55" width="16" height="70" rx="2" fill="#FFF0EB" stroke="#F36334" stroke-width="2.2"/>
+    <rect x="96" y="68" width="16" height="57" rx="2" fill="#F0F4F2" stroke="#6A9082" stroke-width="1.8"/>
+    <rect x="120" y="62" width="16" height="63" rx="2" fill="#466359" stroke="#466359" stroke-width="1.8"/>
+
+    <!-- Financial metric ledger rows -->
+    <g stroke="#6A9082" stroke-width="2.0">
+      <line x1="18" y1="148" x2="95" y2="148"/>
+      <line x1="115" y1="148" x2="148" y2="148" stroke="#466359" stroke-width="2.2"/>
+      <line x1="18" y1="168" x2="80" y2="168"/>
+      <line x1="115" y1="168" x2="148" y2="168" stroke="#466359" stroke-width="2.2"/>
+    </g>
+
+    <!-- "100% RECONCILED" Status Pill Badge -->
+    <rect x="18" y="184" width="130" height="18" rx="4" fill="#F0F4F2" stroke="#6A9082" stroke-width="1.4"/>
+    <circle cx="28" cy="193" r="3.5" fill="#F36334" stroke="none"/>
+    <line x1="38" y1="193" x2="135" y2="193" stroke="#466359" stroke-width="2"/>
+  </g>
+
+  <!-- Master Property Key & Smart Fob (Resting cleanly on ground base beneath card) -->
+  <g transform="translate(280, 290)">
+    <!-- Leather / Smart Access Key Tag on ground -->
+    <rect x="0" y="15" width="34" height="48" rx="6" fill="#FFFFFF" stroke="#F36334" stroke-width="2.2"/>
+    <!-- Orange accent logo/chip -->
+    <circle cx="17" cy="32" r="5" fill="#F36334" stroke="none"/>
+    <line x1="10" y1="46" x2="24" y2="46" stroke="#6A9082" stroke-width="1.8"/>
+
+    <!-- Key split ring -->
+    <circle cx="48" cy="38" r="12" stroke="#6A9082" stroke-width="2.0"/>
+
+    <!-- Precision Master Property Key resting flat on surface -->
+    <g transform="translate(56, 24)" stroke="#466359" stroke-width="2.4">
+      <!-- Key bow (head) -->
+      <circle cx="14" cy="14" r="14" fill="#FFFFFF"/>
+      <circle cx="14" cy="14" r="5" fill="#F0F4F2"/>
+      <!-- Key shaft / blade -->
+      <path d="M28 14h76"/>
+      <!-- Precision warding cuts & teeth -->
+      <path d="M72 14v10M84 14v6M94 14v12M100 14v8"/>
+    </g>
   </g>
 </g>
 
-<!-- Right: Property Analytics & Rent Collection Ledger Card (x=290 to 455, y=85 to 295) -->
-<g transform="translate(290, 85)">
-  <!-- Card background with shadow border -->
-  <rect width="165" height="210" rx="8" fill="#FFFFFF" stroke="#466359" stroke-width="2.4"/>
-  
-  <!-- Header strip -->
-  <rect width="165" height="34" rx="8" fill="#F0F4F2"/>
-  <rect y="26" width="165" height="8" fill="#F0F4F2"/>
-  <line x1="0" y1="34" x2="165" y2="34" stroke="#466359" stroke-width="1.8"/>
-  <circle cx="18" cy="17" r="5" fill="#466359"/>
-  <line x1="32" y1="17" x2="105" y2="17" stroke="#466359" stroke-width="2.2"/>
-
-  <!-- Rent collection bar graph analytics -->
-  <g stroke="#6A9082" stroke-width="1.2" opacity="0.6">
-    <line x1="16" y1="120" x2="150" y2="120"/>
-  </g>
-  <!-- Monthly rent collection bars -->
-  <!-- Bar 1 -->
-  <rect x="25" y="85" width="16" height="35" rx="2" fill="#F0F4F2" stroke="#6A9082" stroke-width="1.8"/>
-  <!-- Bar 2 -->
-  <rect x="49" y="70" width="16" height="50" rx="2" fill="#F0F4F2" stroke="#6A9082" stroke-width="1.8"/>
-  <!-- Bar 3 (Featured Orange Peak) -->
-  <rect x="73" y="52" width="16" height="68" rx="2" fill="#FFF0EB" stroke="#F36334" stroke-width="2.2"/>
-  <!-- Bar 4 -->
-  <rect x="97" y="62" width="16" height="58" rx="2" fill="#F0F4F2" stroke="#6A9082" stroke-width="1.8"/>
-  <!-- Bar 5 -->
-  <rect x="121" y="58" width="16" height="62" rx="2" fill="#466359" stroke="#466359" stroke-width="1.8"/>
-
-  <!-- Tenant Ledger Metric Rows -->
-  <g stroke="#6A9082" stroke-width="1.8">
-    <line x1="18" y1="145" x2="95" y2="145"/>
-    <line x1="115" y1="145" x2="148" y2="145" stroke="#466359" stroke-width="2.2"/>
-    
-    <line x1="18" y1="165" x2="80" y2="165"/>
-    <line x1="115" y1="165" x2="148" y2="165" stroke="#466359" stroke-width="2.2"/>
-  </g>
-
-  <!-- 100% Reconciled status badge -->
-  <rect x="18" y="180" width="130" height="18" rx="4" fill="#F0F4F2" stroke="#6A9082" stroke-width="1.4"/>
-  <circle cx="28" cy="189" r="3.5" fill="#F36334" stroke="none"/>
-  <line x1="38" y1="189" x2="135" y2="189" stroke="#466359" stroke-width="2"/>
-</g>
-
-<!-- Ground baseline -->
-<line x1="25" y1="375" x2="455" y2="375" stroke="#6A9082" stroke-width="1.6"/>
+<!-- Ground baseline tying building and key surface together -->
+<line x1="30" y1="375" x2="450" y2="375" stroke="#6A9082" stroke-width="1.6"/>
 </svg>
