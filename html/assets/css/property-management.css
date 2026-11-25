@@ -4,10 +4,10 @@
 #cc-html-cc-landing-property-management *,
 #cc-html-cc-landing-property-management *::before,
 #cc-html-cc-landing-property-management *::after { box-sizing: border-box; }
-@font-face{font-family:"Montserrat";font-weight:100 900;font-style:normal;font-display:swap;src:url("../fonts/property-management-montserrat-var.woff2") format("woff2")}
-@font-face{font-family:"Old Standard TT";font-weight:400;font-style:normal;font-display:swap;src:url("../fonts/property-management-oldstandard-400.woff2") format("woff2")}
-@font-face{font-family:"Old Standard TT";font-weight:700;font-style:normal;font-display:swap;src:url("../fonts/property-management-oldstandard-700.woff2") format("woff2")}
-@font-face{font-family:"Old Standard TT";font-weight:400;font-style:italic;font-display:swap;src:url("../fonts/property-management-oldstandard-400-italic.woff2") format("woff2")}
+@font-face{font-family:"CC Property Management Montserrat";font-weight:100 900;font-style:normal;font-display:swap;src:url("/assets/fonts/property-management-montserrat-var.woff2") format("woff2")}
+@font-face{font-family:"CC Property Management Old Standard TT";font-weight:400;font-style:normal;font-display:swap;src:url("/assets/fonts/property-management-oldstandard-400.woff2") format("woff2")}
+@font-face{font-family:"CC Property Management Old Standard TT";font-weight:700;font-style:normal;font-display:swap;src:url("/assets/fonts/property-management-oldstandard-700.woff2") format("woff2")}
+@font-face{font-family:"CC Property Management Old Standard TT";font-weight:400;font-style:italic;font-display:swap;src:url("/assets/fonts/property-management-oldstandard-400-italic.woff2") format("woff2")}
 #cc-html-cc-landing-property-management {
 --wp--preset--color--white: #ffffff;
 --wp--preset--color--cc-light: #f6f6f6;
@@ -35,8 +35,8 @@
 --wp--preset--font-size--h2-lg: clamp(36px, 4.45vw, 64px);
 --wp--preset--font-size--h1: clamp(36px, 5.5vw, 80px);
 --wp--preset--font-size--display: clamp(36px, 7vw, 96px);
---wp--preset--font-family--montserrat: Montserrat, sans-serif;
---wp--preset--font-family--old-standard: "Old Standard TT", serif;
+--wp--preset--font-family--montserrat: "CC Property Management Montserrat", sans-serif;
+--wp--preset--font-family--old-standard: "CC Property Management Old Standard TT", serif;
 --wp--preset--spacing--10: 2px;
 --wp--preset--spacing--20: 4px;
 --wp--preset--spacing--30: 8px;
@@ -1776,7 +1776,7 @@
    hero portrait is therefore removed, leaving the supplied office photograph
    as the only visual behind the copy. */
 #cc-html-cc-landing-property-management .cc-hero--casi .cc-hero__media {
-	background: center / cover no-repeat url("../images/home-hero-office.png");
+	background: center / cover no-repeat none;
 }
 #cc-html-cc-landing-property-management .cc-hero--casi .cc-hero__media img,
 #cc-html-cc-landing-property-management .cc-hero--casi .cc-hero__person {
@@ -1880,7 +1880,7 @@
 #cc-html-cc-landing-property-management .cc-ind-quotes .cc-grid--2 { gap: 20px; }
 /* FAQ spacing inside industry pages. */
 #cc-html-cc-landing-property-management .cc-ind-faq .cc-section-head { margin-bottom: clamp(32px, 4vw, 56px); }
-/* Serif headings use the approved Old Standard TT brand font. */
+/* Serif headings use the approved "CC Property Management Old Standard TT" brand font. */
 #cc-html-cc-landing-property-management .cc-starter-page--industry :is(h1, h2, h3),
 #cc-html-cc-landing-property-management .cc-starter-page--industry .cc-faq__item summary {
 	font-family: var(--wp--preset--font-family--old-standard);
@@ -2005,8 +2005,8 @@
  }
 #cc-html-cc-landing-property-management #casi-panel #casi-mobile-close { display: flex !important; }}
 /* Compatibility for font presets already saved in existing WordPress pages. */
-#cc-html-cc-landing-property-management { --wp--preset--font-family--cormorant: "Old Standard TT", serif; --wp--preset--font-family--helvetica: Montserrat, sans-serif; }
-#cc-html-cc-landing-property-management .has-cormorant-font-family { font-family: "Old Standard TT", serif !important; }
-#cc-html-cc-landing-property-management .has-helvetica-font-family { font-family: Montserrat, sans-serif !important; }
+#cc-html-cc-landing-property-management { --wp--preset--font-family--cormorant: "CC Property Management Old Standard TT", serif; --wp--preset--font-family--helvetica: "CC Property Management Montserrat", sans-serif; }
+#cc-html-cc-landing-property-management .has-cormorant-font-family { font-family: "CC Property Management Old Standard TT", serif !important; }
+#cc-html-cc-landing-property-management .has-helvetica-font-family { font-family: "CC Property Management Montserrat", sans-serif !important; }
 #cc-html-cc-landing-property-management { display:block; margin:0; }
 #cc-html-cc-landing-property-management [hidden] { display:none !important; }
